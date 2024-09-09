@@ -1,4 +1,4 @@
-<h1 align="center">Hello you 👋, I'm LinT 👯</h1>
+<h1 align="center">Hello you 👋, I'm LinT 💃🏿 </h1>
 <h3 align="center">A Passionate data analyst, combining expertise in financial risk management (AML) and machine learning to solve complex challenges with innovative solutions.</h3>
 
 _________________________________________________________________________________________________________________________________
